@@ -30,11 +30,11 @@ To learn more about RPSF, please explore the following sections:
 
 For any questions or inquiries, please contact us at:
 
-[Your Email Address]
+[lcrpmoderation@gmail.com]
 
 ## License
 
-(If applicable) This project is licensed under the [License Name] License. See the `LICENSE` file for more information.
+(If applicable) This project is licensed under the [MIT] License. See the `LICENSE` file for more information.
 
 ## Updates
 
@@ -62,7 +62,7 @@ Interested in joining our team? We're looking for individuals who:
 
 To apply, please fill out the application form here:
 
-[https://forms.google.com/{Your Application Id}/](https://forms.google.com/{Your Application Id}/)
+[(https://docs.google.com/forms/d/e/1FAIpQLScstYrXviSwJuZzJ97dJHDxXy1pc5kWRHVTbPUhWf9xAYyeyQ/viewform?usp=sharing)]
 
 We look forward to hearing from you!
 
